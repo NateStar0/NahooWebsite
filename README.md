@@ -1,24 +1,22 @@
-# nahoo
+# Nahoo
 
-## Project setup
-```
-npm install
-```
+## Project Description
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+It's jsut a pretty small website for me to host my games. If you're reading this, hello!
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Project map
 
-### Lints and fixes files
-```
-npm run lint
-```
+App.vue
+    (Routes)
+    - Home
+        (Components)
+        Socials
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+    - Portfolio
+
+    - Game
+        (Routes)
+        - Any game
+    (Components)
+    Navigator
+
